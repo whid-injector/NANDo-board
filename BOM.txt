@@ -28,7 +28,7 @@ Total: 2x41-Pin 2.54mm Pin-Header [e.g. https://www.aliexpress.com/item/32864438
 
 - Jumper with Long Handle [x10] [e.g. https://www.aliexpress.com/item/33016645429.html]
 
-- Resistor 470 Ohm 2010 [x1] [e.g. https://www.aliexpress.com/item/32996302793.html]
+- Resistor 470 Ohm 2010 [x1] [e.g. CQ2010-470R-1%   ] or [e.g. https://www.aliexpress.com/item/32996302793.html]
 
 - Screws with flat head 2x6mm [x4] [e.g. https://www.aliexpress.com/item/32958878628.html]
 
