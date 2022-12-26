@@ -4,9 +4,13 @@
 - 9-Pin 2.54mm Pin-Header [x1]
 - 10-Pin 2.54mm Pin-Header [x2]
 
+Total: 45-Pin 2.54mm Pin-Header [e.g. https://www.aliexpress.com/item/32864438850.html]
+
 - 2x5-Pin 2.54mm Pin-Header [x1] [e.g. https://www.aliexpress.com/item/32959110632.html]
 - 2x10-Pin 2.54mm Pin-Header [x1]
 - 2x13-Pin 2.54mm Pin-Header [x2]
+
+Total: 2x41-Pin 2.54mm Pin-Header [e.g. https://www.aliexpress.com/item/32864438850.html]
 
 - 4-Pin 2.54mm Pin-Socket [x2] [e.g. https://www.aliexpress.com/item/32838874466.html] For the DIP-8 socket
 - 10-Pin 2.54mm Pin-Socket [x1]
@@ -18,7 +22,7 @@
 
 - 4-Pin 2.54mm Dip Switch [x1] [e.g. https://www.aliexpress.com/item/32879944485.html ]
 
-- Capacitor Tantalum 10 uF 6032 [x1]
+- Capacitor Tantalum 10 uF 6032 (2412 inch) [x1]
 
 - Capacitor Ceramic 100nF 100V 1206 [x1] [e.g. CL31B104KCFNNNE https://www.tme.eu/lt/en/details/cl31b104kcfnnne/1206-mlcc-smd-capacitors/samsung/ ]
 
