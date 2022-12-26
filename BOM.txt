@@ -4,17 +4,14 @@
 - 9-Pin 2.54mm Pin-Header [x1]
 - 10-Pin 2.54mm Pin-Header [x2]
 
-Total: 45-Pin 2.54mm Pin-Header [e.g. https://www.aliexpress.com/item/32864438850.html]
-
 - 2x5-Pin 2.54mm Pin-Header [x1] [e.g. https://www.aliexpress.com/item/32959110632.html]
 - 2x10-Pin 2.54mm Pin-Header [x1]
-- 2x13-Pin 2.54mm Pin-Header [x2]
-
-Total: 2x41-Pin 2.54mm Pin-Header [e.g. https://www.aliexpress.com/item/32864438850.html]
 
 - 4-Pin 2.54mm Pin-Socket [x2] [e.g. https://www.aliexpress.com/item/32838874466.html] For the DIP-8 socket
 - 10-Pin 2.54mm Pin-Socket [x1]
-- 12-Pin 2.54mm Pin-Socket [x4] or 24-Pin 2.54mm Pin-Socket [x2] For the NAND DIP-48 socket
+- 12-Pin 2.54mm Pin-Socket [x4] or 24-Pin 2.54mm Pin-Socket [x2][E.G. https://www.aliexpress.com/item/1005001418544370.html] For the NAND DIP-48 socket
+
+- 2x13-Pin 2.54mm Pin-SOCKET [x2] [E.G. https://www.aliexpress.com/item/1005001781173114.html]
 
 - 1-Pin 2.54mm Dip Switch [x2] [e.g. https://www.aliexpress.com/item/32879944485.html ]
 
