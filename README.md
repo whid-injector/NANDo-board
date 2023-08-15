@@ -9,7 +9,7 @@ A Multipurpose Breakout for the FT2232HL to easily conduct Hardware Security tes
  
 # Bill-of-Materials
 Please check the BOM.txt for the components needed. Most likely (except the R470OHM 2010) you may have all you need already.<br>
-Of course, you still need to purchase a part the FT2232HL CJMCU (e.g. https://www.aliexpress.com/item/4001099643640.html)
+Of course, you still need to purchase a part the FT2232HL CJMCU (e.g. https://s.click.aliexpress.com/e/_DeK6Oor )
 
 # Tips:<br>
 - This breakout is designed for the FT2232HL CJMCU board (e.g. https://s.click.aliexpress.com/e/_DeK6Oor )<br>
