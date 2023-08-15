@@ -12,7 +12,7 @@ Please check the BOM.txt for the components needed. Most likely (except the R470
 Of course, you still need to purchase a part the FT2232HL CJMCU (e.g. https://www.aliexpress.com/item/4001099643640.html)
 
 # Tips:<br>
-- This breakout is designed for the FT2232HL CJMCU board (e.g. https://www.aliexpress.com/item/4001099643640.html)<br>
+- This breakout is designed for the FT2232HL CJMCU board (e.g. https://s.click.aliexpress.com/e/_DeK6Oor )<br>
 - Pull-up Resistor is 470Ohm.<br>
 - Screws to hold the PCB to the 3D-printed case are 2x6mm.<br>
 - BE SURE to mount the FT2232HL with the FTDI chipset FACING UP!!!
