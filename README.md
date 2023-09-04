@@ -50,7 +50,9 @@ OR <br>
 
 ## Logic Analyzer with Pulseview
 The strip pins AD0-AD7 labeled "Pulseview FTDI-LA" can be used as low-frequency Logic Analyzer Channels with Pulseview/Sigrok tool.
-Here the configuration <ADD IMAGE FROM images DIR>
+Here the configuration 
+
+![image](https://raw.githubusercontent.com/whid-injector/NANDo-board/master/Images/NANDo-board_Pulseview_Configuration.png)
 
 ## Multipurpose Pin Headers/Sockets
 On the lower part of NANDo-Board's PCB there are some pin headers/sockets that are not connected with the FT2232HL. They are there just in case you need to mess-up with many flying-wires and you want to keep all connections clean and in order like with an usual breadboard, but with screwdown terminal blocks & co. 
