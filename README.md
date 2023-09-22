@@ -6,7 +6,16 @@ A Multipurpose Breakout for the FT2232HL to easily conduct Hardware Security tes
 
 ![image](https://user-images.githubusercontent.com/26245612/168490116-b03b252d-4717-4295-81d7-af8a828ac3a6.png)
 
- 
+
+
+## WHID's Trainings
+The 𝙊𝙛𝙛𝙚𝙣𝙨𝙞𝙫𝙚 𝙃𝙖𝙧𝙙𝙬𝙖𝙧𝙚 𝙃𝙖𝙘𝙠𝙞𝙣𝙜 𝙏𝙧𝙖𝙞𝙣𝙞𝙣𝙜 is a Self-Paced training including Videos, a printed Workbook and a cool Hardware Hackit Kit. And... you get everything shipped home Worldwide! 🌍🔥😎<br>
+For more info... ➡ https://www.whid.ninja/store <br><br>
+
+[![WHID's Trainings](https://files.gandi.ws/64/2e/642e05f6-84e1-48fe-8a59-d678c7d635e3.PNG)](https://www.youtube.com/watch?v=zbUuBZJIHkE)
+
+
+
 # Bill-of-Materials
 Please check the BOM.txt for the components needed. Most likely (except the R470OHM 2010) you may have all you need already.<br>
 Of course, you still need to purchase a part the FT2232HL CJMCU (e.g. https://s.click.aliexpress.com/e/_DeK6Oor )
